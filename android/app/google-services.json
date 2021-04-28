@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807205631387",
+    "project_id": "yutnoti",
+    "storage_bucket": "yutnoti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807205631387:android:c05b331d214577d897dd3e",
+        "android_client_info": {
+          "package_name": "com.dbsiam.yutnoti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807205631387-oh3nk0o3kbn1gp9t26mid2q1evq2tnqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKcJnLt5zS2MWoS-wgs1e3S8D_if1aKWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807205631387-oh3nk0o3kbn1gp9t26mid2q1evq2tnqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
